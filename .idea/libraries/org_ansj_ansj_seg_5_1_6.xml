@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="org.ansj:ansj_seg:5.1.6" type="repository">
+    <properties maven-id="org.ansj:ansj_seg:5.1.6" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/ansj/ansj_seg/5.1.6/ansj_seg-5.1.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/nlpcn/nlp-lang/1.7.7/nlp-lang-1.7.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
